@@ -6,7 +6,7 @@ aliases:
 type: Player
 faction:
 location: Party
-description: "Silver Dragonborn"
+description: Silver Dragonborn
 level: 1
 disposition:
 player: Josh G

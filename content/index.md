@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Campaign 2 Wiki
 draft: false
 tags:
-  - example-tag
 ---
 # Preamble
 Nine hundred years ago, your [[Cantrips Pty Ltd|predecessors]] saved the world.
@@ -35,10 +34,12 @@ It doesn't seem to mind.
 %% Can you see this?%%
 # Current Party
 ![[Current Player Characters.base]]
+![[Current Party.png]]
 
 # Legendary Heroes
 ![[Legends.base]]
-
+![[Legendary Heroes.png]]
 
 # Obituary
 ![[Obituary.base]]
+![[Obituary.png]]
