@@ -1,0 +1,1 @@
+<img src="Placeholder Image.png" style="float: left; margin-right: 20px;" width="200">

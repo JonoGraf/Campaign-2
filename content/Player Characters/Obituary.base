@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Obituary
+    filters:
+      and:
+        - type == "Player"
+        - status == "RIP"
+    order:
+      - file.name
+      - status
+      - description
+    cardSize: 270
+    image: note.image
+    imageFit: contain

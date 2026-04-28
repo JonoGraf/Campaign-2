@@ -1,0 +1,26 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - status == "Alive"
+    order:
+      - file.name
+      - status
+      - description
+      - level
+      - player
+    image: note.image
+    imageFit: contain
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "Player"
+        - "!player.isEmpty()"
+    order:
+      - file.name
+      - type
+      - description
+      - player
+      - status

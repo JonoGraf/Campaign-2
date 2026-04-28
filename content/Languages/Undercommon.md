@@ -1,0 +1,14 @@
+---
+type: Language
+tags:
+title:
+draft:
+---
+### Description
+Undercommon was a trade language spoken by the majority of intelligent races native to the Underdark. Speakers of Undercommon included the aboleth, choker, chuul, cloaker, delver, drider, drow, duergar, dwarf, githyanki, githzerai, grimlock, kobold, kuo-toa, orc, rakshasa, roper, svirfneblin, and mind flayer races.
+
+### Sounds Like
+
+
+#### Spoken in
+
