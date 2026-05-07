@@ -7,9 +7,10 @@ faction:
 description:
 disposition:
 title:
-draft:
+draft: 
 ---
-![[Tal Dorei.png]]
+<img src="Tal Dorei.png" width="100%">
+
 ### Description
 Previously known as Gwessar, Tal'Dorei is a northern continent which includes the Republic of Tal'Dorei (including the former city-state of Whitestone), as well as the dwarven stronghold of Kraghammer, the elven realm of Syngorn, and, far to the south, the hobgoblin empire of the Iron Authority.
 

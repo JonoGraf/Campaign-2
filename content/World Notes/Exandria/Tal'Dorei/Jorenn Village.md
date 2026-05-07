@@ -7,9 +7,10 @@ faction:
 description:
 disposition:
 title:
-draft:
+draft: false
 ---
-![[Jorenn Village.png]]
+<img src="Jorenn Village.png" width="100%">
+
 ### Description
 Jorenn Village is a large village in close proximity to the Umbra Hills in the Black Valley north of Westruun in the east part of the Cliffkeep Mountains.
 Leading into the village was the Blackvalley Path that runs along the edge of the [[Bramblewood Forest]] closer to [[Westruun]] but this access has been cut off by [[the Umbral Breach]] so now the only access is a dangerous mountainous path through the [[Umbra Hills]].

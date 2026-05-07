@@ -7,9 +7,10 @@ faction:
 description:
 disposition:
 title:
-draft:
+draft: false
 ---
-![[Marquet.png|banner p+c]]
+<img src="Marquet.png" width="100%">
+
 ### Description
 Marquet is one of the continents of [[Exandria]], to the south of Issylra and southwest of [[Tal'Dorei]]. Before the Calamity, it was lushly forested.
 Centuries after the Divergence, it is covered mostly with desert landscapes and mountainous terrain, sheltering rare bastions of civilization. One-third of Marquet is covered with deserts .

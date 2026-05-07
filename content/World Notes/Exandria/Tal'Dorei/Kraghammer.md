@@ -7,7 +7,7 @@ faction:
 description:
 disposition:
 title:
-draft:
+draft: false
 ---
 ### Description
 

@@ -9,7 +9,7 @@ faction:
 description:
 date: 0
 ---
-![[the Veil of the Heavens is created.png]]
+<img src="the Veil of the Heavens is created.png" width="100%">
 
 ### Description
 The Divine Sundering marks the moment the [[the Triad|Triad]] and the greater pantheon of gods severed their direct ties to the [[Material Plane]]. In the wake of [[Orcus]]’ annihilation, [[Tiamat]]’s unmaking, and the near-collapse of [[Mechanus]], the gods concluded that their continued presence invited existential threats. By unanimous decree, divine avatars were withdrawn, planar gates collapsed, and prayers ceased to receive direct answer. The gods aren't dead, they're watching and they won't help.

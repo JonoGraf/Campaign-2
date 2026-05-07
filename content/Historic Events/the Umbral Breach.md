@@ -14,8 +14,10 @@ aliases:
   - Godscar
   - The Breach
 ---
-![[The Umbral Breach.png]]
->*Where the gods pulled away cleanly elsewhere, [[Jorenn Village]] tore.*
+<img src="The Umbral Breach.png" width="100%">
+
+>[!quote|mark] 1st hand description of the Breach
+>Where the gods pulled away cleanly elsewhere, [[Jorenn Village]] tore.
 
 ### Description
 A colossal magical rift of living darkness, called the Umbral Breach, split the land from the rest of Tal’Dorei. It is not just a chasm, it is a boundary. Light bends wrong near it. Sound dies. Spells cast across it unravel.

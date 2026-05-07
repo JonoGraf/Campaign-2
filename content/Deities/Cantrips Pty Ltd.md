@@ -1,6 +1,6 @@
 ---
 title:
-draft:
+draft: false
 aliases:
   - Octopunishers Anonymous
 type: NPC
@@ -11,7 +11,8 @@ disposition:
 player:
 tags:
 ---
-![[Untitled16_20260202113346 1.jpeg]]
+<img src="Untitled16_20260202113346 1.jpeg" width="100%">
+
 ### Description
 From humble beginnings 
 
@@ -54,9 +55,9 @@ There were many who adventured alongside the Cantrips company shareholders were:
 - Saved Woodhelm from Goblins
 
 #### Defeat of [[Tiamat]]
-![[Untitled17_20260215181133.jpeg]]
+<img src="Untitled17_20260215181133.jpeg" width="100%">
 
 #### Defeat of Orcus
-![[Cantrips fight Orcus.png]]
+<img src="Cantrips fight Orcus.png" width="100%">
 
 ### Interactions

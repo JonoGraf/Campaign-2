@@ -11,7 +11,8 @@ disposition:
 player:
 tags:
 ---
-![[Untitled17_20260215112234.jpeg]]
+<img src="Untitled17_20260215112234.jpeg" width="100%">
+
 ### Description
 Tiamat was the lawful evil goddess of greed, queen of chromatic dragons and, for a time, reluctant servant of the greater gods Bane and later [[Asmodeus]]
 

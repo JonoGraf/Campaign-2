@@ -11,7 +11,8 @@ aliases:
 title:
 draft:
 ---
-![[Badlands.png|banner]]
+<img src="Badlands.png" width="100%">
+
 ### Description
 Wynandir occupies the central region of the continent of [[Wildemount]].
 In the expansive wastes and turbulent badlands of Eastern Wynandir lies the region of Xhorhas, ruled in the north by the [[Kryn Dynasty]]. The southern portions of the region are less populated, consisting mostly of rocky grassland, dense forest, and marshy moorland.

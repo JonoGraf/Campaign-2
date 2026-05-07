@@ -9,7 +9,9 @@ disposition:
 title:
 draft:
 ---
-![[Feywild.png]]![[Feywild2.png]]
+<img src="Feywild.png" width="100%">
+<img src="Feywild2.png" width="100%">
+
 ### Description
 The Feywild, also known as the Plane of Faerie or simply Faerie, was an "echo" of the Prime [[Material Plane]] suffused with potent magic and unrestrained emotions. It was the place from which fey originated, and from where the first elves arrived
 

@@ -10,7 +10,8 @@ tags:
 title:
 draft: false
 ---
-![[Khalavoun.png]]
+<img src="Khalavoun.png" width="100%">
+
 ### Overview
 Khalavoun was a Djinni of considerable standing, a lord of the upper winds, given to grand gestures, magnificent opinions, and a palace of sculpted cloud that he considered the finest structure in any of the elemental planes. He was proud without cruelty, imperious without malice.
 

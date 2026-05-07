@@ -11,7 +11,7 @@ disposition:
 aliases:
   - Church of Arkanos
 ---
-<img src="Arkanos Coin.png" style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
+<img src="Arkanos Coin.png" width="100%">
 
 > [!Quote|author mark] Arkanos <br>Founder
 > _Value is the only honest measure of a soul_

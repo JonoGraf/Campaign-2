@@ -11,7 +11,7 @@ tags:
 title:
 draft: true
 ---
-![[Yoru.png]]
+<img src="Yoru.png" width="100%">
 
 ### Description
 
