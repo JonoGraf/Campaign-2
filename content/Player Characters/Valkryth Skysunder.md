@@ -17,7 +17,7 @@ image: "[[Valkryth Skysunder.jpeg]]"
 ![[Valkryth Skysunder Statblock.png]]
 
 ### Description
-*The FrostWarden of the StormCleaving Clan* 
+*The Frost Warden of the Storm Cleaving Clan* 
 Silver Dragonborn
 Age 40
 

@@ -1,14 +1,17 @@
 ---
 title:
-draft: true
+draft: True
 aliases:
 type: Player
 faction:
 location: Party
-description: ""
+description:
+level:
 disposition:
 player:
 tags:
+status:
+image: "[[Placeholder Image.png]]"
 ---
 > [!statblocks]
 > ![[Placeholder Image.png|cover right circle profile p+t lp]]

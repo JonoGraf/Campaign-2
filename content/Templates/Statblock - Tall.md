@@ -1,3 +1,6 @@
+---
+draft: true
+---
 > [!statblocks]
 > ![[Placeholder Image.png|cover right circle profile p+t lp]]
 > 

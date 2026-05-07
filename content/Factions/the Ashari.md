@@ -12,8 +12,8 @@ aliases:
 ---
 <img src="the Ashari.png" style="display: block; margin-left: auto; margin-right: auto; text-align: center;" width="300">
 
->[!quote|mark] Core tenant of the Open Silence
->Where the gods withdrew, something remained.
+>[!quote|mark] A traditional Ashari greeting
+>Kaitiakè (meaning respect, guardian, keeper)
 
 The Ashari are a multiracial people divided into four tribes: Air, Earth, Water, and Fire. Each of the four tribes live in locations where the Elemental Planes have bled into the Material Plane. The Ashari make it their duty to guard these portals, ensuring that nothing dangerous is able to pass between the planes.
 
