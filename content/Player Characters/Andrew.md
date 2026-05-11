@@ -1,23 +1,25 @@
 ---
-title:
-draft:
 aliases:
 type: Player
 faction:
 location: Party
 description: ""
 disposition:
-player: Cam
+player: Andrew
 tags:
+title:
+draft:
 status: Alive
 image: "[[Placeholder Image.png]]"
 ---
-
 ### Description
 *Brief description of Player*
 
 ### Level & Knowledge
-Bard
+*Class, level, languages*
+
+### Keepsake
+
 
 ### Personal Quest
 *Goals, motives, ideas*

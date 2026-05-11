@@ -118,4 +118,42 @@ tags:
 >>	- ✔
 >>	- [ ] 
 >>	- [ ] 
+
+
+> [!statblocks]
+> ![[Xylira Head.png|cover right circle profile+medium p+t]]
+> 
+> # Xylira
+> > High Elf / Drow
+> *Warlock*
+> *Lvl 1*
+>  
+> ---
+>| HP | AC | Initiative |
+>|:--:|:---:|:---:|
+>|10|14|+3|
+> 
+>| STR | DEX | CON | INT | WIS | CHA |  |
+>|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+>| 6 | 16 | 15 | 8 | 8 | 18 |  |
+>| -2 | +3 | +2 | -1 | -1 | +4 | **Mod** |
+>|  |  |  |  | +1 | +6 | **Sav** |
+>  
+>|  |  |
+>| ---:|:--- |
+>| **Speed** | 30ft |
+>| **Passive Perception** | 11 |
+>| **Proficiency Bonus** | +2 |
+>| **Darkvision** | 60ft |
+>| **Resurrection DC** |   *5*|
+> ---
+>> [!checks|no-t] 
+>> - **Death Saves**
+>>	- ❌
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	- ✔
+>>	- [ ] 
+>>	- [ ] 
 >>	- [ ] 

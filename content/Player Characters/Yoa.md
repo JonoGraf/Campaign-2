@@ -22,24 +22,7 @@ image: "[[Yoa.jpg]]"
 Level 1 Rogue
 
 ### Keepsake
-> [!statblocks|columns]
-> 
->> [!blank]  
- >>![[Placeholder Image.png|cover htiny wtiny lp right]]
- >> # Name
->> > #Wondrous *item* #Uncommon 
->> 
->> ---
->> *Description of the item here
->> Lorrem Impsum*
->> 
->> ---
->> 
->
->> [!blank]
->> ## Traits
->> **Trait Name**
->> Description
+![[Yoa Ring Statblock.png]]
 
 ### Personal Quest
 *Goals, motives, ideas*

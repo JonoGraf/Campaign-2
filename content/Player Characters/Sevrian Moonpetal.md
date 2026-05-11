@@ -20,7 +20,6 @@ image: "[[Sevrian Moonpetal.png]]"
 
 ### Level & Knowledge
 Level 1 Bard
-Forgery Kit
 
 ### Keepsake
 ![[Counterstroke Statblock.png]]
