@@ -5,7 +5,7 @@ tags:
   -
 ---
 > [!statblocks]
-> ![[Valkryth Skysunder.jpeg|cover right circle profile+medium p+t]]
+> ![[Valkryth Head.png|cover right circle profile+medium p+t]]
 > 
 > # Valkryth Skysunder
 > > Silver Dragonborn
@@ -121,7 +121,7 @@ tags:
 
 
 > [!statblocks]
-> ![[Xylira Head.png|cover right circle profile+medium p+t]]
+> ![[Xylira Head.png|cover right circle hsmall wsmall]]
 > 
 > # Xylira
 > > High Elf / Drow
@@ -155,5 +155,78 @@ tags:
 >>	- [ ] 
 >>	- ✔
 >>	- [ ] 
+>>	- [ ] 
+
+> [!statblocks]
+> ![[Rik Face.png|cover right circle|175]]
+> 
+> # Rik Banehammer
+> > Dwarf
+> *Paladin*
+> *Lvl 1*
+>  
+> ---
+>| HP | AC | Initiative |
+>|:--:|:---:|:---:|
+>| | | |
+> 
+>| STR | DEX | CON | INT | WIS | CHA |  |
+>|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+>|  |  |  |  |  |  |  |
+>|  |  |  |  |  |  | **Mod** |
+>|  |  |  |  |  |  | **Sav** |
+>  
+>|  |  |
+>| ---:|:--- |
+>| **Speed** | 30ft |
+>| **Passive Perception** |  |
+>| **Proficiency Bonus** |  |
+>| **Darkvision** | 120ft |
+>| **Resurrection DC** |   *5*|
+> ---
+>> [!checks|no-t] 
+>> - **Death Saves**
+>>	- ❌
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	- ✔
+>>	- [ ] 
+>>	- [ ] 
+
+> [!statblocks]
+> ![[Zephir Head.png|cover right circle profile+medium p+t]]
+> 
+> # Zephir Theosore
+> > Human
+> *Wizard*
+> *Lvl 1*
+>  
+> ---
+>| HP | AC | Initiative |
+>|:--:|:---:|:---:|
+>|10|13|+3|
+> 
+>| STR | DEX | CON | INT | WIS | CHA |  |
+>|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+>|6|16|15|18|8|8|  |
+>|-2|+3|+2|+4|-1|-1| **Mod** |
+>|  |  |  |+6|+1|  | **Sav** |
+>  
+>|  |  |
+>| ---:|:--- |
+>| **Speed** | 30ft |
+>| **Passive Perception (WIS)** |11|
+>| **Proficiency Bonus** |+2|
+>| **Darkvision** |  |
+>| **Resurrection DC** |   *5*|
+> ---
+>> [!checks|no-t] 
+>> - **Death Saves**
+>>	- ❌
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	- ✔
 >>	- [ ] 
 >>	- [ ] 

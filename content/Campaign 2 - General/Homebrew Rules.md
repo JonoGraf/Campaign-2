@@ -6,8 +6,11 @@ tags:
 ---
 
 ### Homebrew Rules
-#### General
-- Shield users can use reaction to make an attack roll against an incoming attack, if higher then the damage is done to the shield durability instead of PC
+#### Shields
+Shield users can use reaction to make an attack roll against an incoming attack, if higher then the damage is done to the shield durability instead of PC
+
+#### Potions
+Potions drunk using an action use the maximum roll
 
 #### Counterspell - tbc
 Tossing up idea that Counterspell is done as a contested roll. Will probably start with the new 5.5e RAW and see how it feels

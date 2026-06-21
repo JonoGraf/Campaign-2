@@ -5,7 +5,7 @@ aliases:
 type: Player
 faction:
 location: Party
-description: Tabaxi
+description: Tabaxi Ninja
 level: 1
 disposition:
 player: Alex

@@ -4,13 +4,13 @@ draft: True
 aliases:
 type: Player
 faction:
-location: Party
-description:
-level:
+location:
+description: 
+level: 
 disposition:
-player:
+player: 
 tags:
-status:
+status: 
 image: "[[Placeholder Image.png]]"
 ---
 > [!statblocks]

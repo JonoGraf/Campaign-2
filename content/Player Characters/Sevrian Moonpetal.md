@@ -5,7 +5,7 @@ aliases:
 type: Player
 faction:
 location: Party
-description: Fairy
+description: Fairy Bard
 level: 1
 disposition:
 player: Josh S

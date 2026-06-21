@@ -2,11 +2,10 @@
 title:
 draft:
 aliases:
-  - Valkryth
 type: Player
 faction:
 location: Party
-description: Silver Dragonborn
+description: Silver Dragonborn Barbarian
 level: 1
 disposition:
 player: Josh G
@@ -23,6 +22,7 @@ Age 40
 
 ### Level & Knowledge
 Barbarian (Path of the Zealot)
+Draconic
 
 ### Keepsake
 ![[Karruth Vokur Keepsake.png]]
@@ -58,6 +58,7 @@ As a reaction, when an ally takes damage within 5ft you can reduce the damage by
 - Kaelor Thrice-Bound, a human spearfighter with a sharp tongue and sharper instincts.
 - Miraak Stonebloom, an earth genasi medic who kept the group alive more times than they could count.
 - Syrala Vexwind, a halfelf scout whose calm presence steadied Valkryth’s temper.
+
 
 ### Backstory
 Homeland: The Cliffkeep Mountains, Tal’Dorei

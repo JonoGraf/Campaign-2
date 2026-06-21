@@ -5,7 +5,7 @@ aliases:
 type: Player
 faction:
 location: Party
-description: Mixed Elf
+description: Mixed Elf Warlock
 disposition:
 player: Cam
 tags:
@@ -16,7 +16,7 @@ level: "1"
 ![[Xylira Statblock.png]]
 
 ### Description
-Name: Xylira (Zy-LEE-rah)
+Name: Tamriel (Xylira (Zy-LEE-rah))
 Race: Mixed high elf/drow
 Gender: female
 Size: medium (5 foot), slim frame
