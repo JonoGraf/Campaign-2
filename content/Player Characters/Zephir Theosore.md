@@ -1,6 +1,6 @@
 ---
 title:
-draft: true
+draft:
 aliases:
 type: Player
 faction:
