@@ -7,7 +7,7 @@ disposition:
 player:
 tags:
 title:
-draft: true
+draft: false
 ---
 # Session 1 - 17/05/26
 Six strangers. One cold morning. One town that insists it is fine.
