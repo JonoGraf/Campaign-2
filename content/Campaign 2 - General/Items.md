@@ -15,12 +15,17 @@ tags:
 >> *A blade forged of pale, almost translucent metal that shimmered faintly like frost under moonlight. Draconic runes spiralled along the hilt, speaking of protection, remembrance, and sacrifice.*
 >> 
 >> ---
->> 
->
->> [!blank]
 >> ## Traits
 >> **Frostmantle Echo**
->> When an ally drops to 0 HP. You hear a whisper in Draconic and you gain heroic inspiration.
+>> When an ally drops to 0 HP. You hear a whisper in Draconic and you or your ally, gain a heroic inspiration.
+>
+>> [!blank]
+>> 
+>> **Not Again**
+>>Once per long rest, when an ally within 30 feet drops to 0 HP:
+>>- You may immediately move up to your speed toward them.
+>>- You gain resistance to all damage and can't provoke opportunity attacks till the end of your next turn.
+>>- You cannot move away from that ally until the end of your next turn.
 
 > [!statblocks|columns]
 > 

@@ -2,7 +2,6 @@
 title: Homebrew Rules
 draft: false
 tags:
-  - example-tag
 ---
 
 ### Homebrew Rules
@@ -40,3 +39,6 @@ Battlefield actions consist of two phases:
 - A Tell, (end of monsters turn) where the Battlefield Action starts. The Tell does not inflict any damage. Instead, it is a hint for the player as to what the Battlefield Action will do once it’s resolved and how to stop it.
 - A Resolution, (start of monsters turn) when the Battlefield Action ends. If the players have not neutralized or mitigated the Battlefield Action, the actual effect of this action will resolve in this phase.
 - All Battlefield Actions can be either neutralized or mitigated. The point of the Tell phase is for the players to figure out how to neutralize or mitigate the action before it reaches the Resolution stage. If the players don’t manage to neutralize or mitigate a Battlefield Action, the Battlefield Action simply triggers.
+
+#### Levelling Up
+Can either choose to take the standard health or roll with advantage.

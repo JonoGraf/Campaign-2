@@ -6,7 +6,7 @@ type: Player
 faction:
 location: Party
 description: Tabaxi Ninja
-level: 1
+level: 2
 disposition:
 player: Alex
 tags:

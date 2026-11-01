@@ -38,7 +38,11 @@ One Drive: [Source Books](https://1drv.ms/f/c/e709902baeece6be/IgCG7c58kUHrTYOqb
 %% Quartz Update Notes
 C:\Users\grafj>cd onedrive
 
-C:\Users\grafj\OneDrive>cd dnd-notes
+C:\Users\grafj\OneDrive>cd dnd
 
-C:\Users\grafj\OneDrive\Dnd-notes>npx quartz sync
+C:\Users\grafj\OneDrive\DnD>cd campaign
+
+C:\Users\grafj\OneDrive\DnD\Campaign>cd campaign-2
+
+C:\Users\grafj\OneDrive\DnD\Campaign>cd campaign-2>npx quartz sync
 %%

@@ -6,7 +6,7 @@ type: Player
 faction:
 location: Party
 description: Silver Dragonborn Barbarian
-level: 1
+level: 2
 disposition:
 player: Josh G
 tags:

@@ -117,16 +117,6 @@ The Cult's additions: chalk markings on the outer walls, a wooden lean-to, a fir
 
 **WIS DC 10:** The harmonic feels like it's trying to resolve into something recognisable — a word, almost — but never quite gets there.
 
-**Character reactions to first hearing it:**
-
-_Sevrian_ — stops walking. Their head tilts. They are listening with professional attention. _"That's not random. That's structured. Whatever is making that sound is doing it deliberately."_ They cannot tell if this is more or less alarming than the alternative.
-
-_Eva_ — checks her compass. It is spinning slowly. She counts the pulse interval. Eight seconds. She checks her notes from the meeting with Davan. She looks at the building. _"The Breach moved the night the grinding started. Three weeks before that it moved again. Two weeks before that—"_ She stops. Recounts. _"It's accelerating."_
-
-_Andrew_ — divine instinct. Something in there is not right in a way that has nothing to do with divinity — which is itself the problem. He has trained his whole life to feel the presence of sacred and profane. This is neither. This is something prior to the categories.
-
-_Valkryth_ — professional assessment, immediate: one entry point, two collapsed floors above creating structural instability, unknown creature inside. He positions himself at the entrance and waits for the others to finish their observations before moving in.
-
 ---
 
 #### The Dungeon: General Environmental Rules
@@ -148,14 +138,6 @@ Once a guard room. Stone floor, two collapsed benches, a staircase going up, a d
 **Encounter: 12x Breach-Touched Stirges**
 
 Modified: when they attach and feed, the target hears a faint whisper in a voice they almost recognise. Not words. Just tone — loving, or warning. It lasts only as long as the stirge feeds. It does no additional mechanical damage. It is purely, specifically unsettling.
-
-**Character-specific stirge moments:**
-
-_Andrew_ — the voice he hears during the feed sounds, briefly, like it might be divine. It is not. But it is the closest thing to a divine communication he has felt since arriving in Jorenn and the fact that it comes from a parasite feeding on his blood is information he will need time to process.
-
-_Yoa_ — one stirge bypasses the group and goes directly for her. It is drawn to something — warmth, movement, scent. She deals with it efficiently. The voice she hears is a child's. She does not mention this to the others.
-
-_Xylira_ — the whisper she hears is in a language she doesn't recognise. It is not Elvish. It is not Undercommon. It is not anything she can place. She files this away.
 
 **Investigation DC 11 on the scratched bench:** The marks were made by something with an irregular number of limbs. The pattern doesn't match any standard creature gait.
 
@@ -207,19 +189,7 @@ Twenty feet across, domed ceiling, floor lower than the corridor by three steps.
 
 **The Ashmore Resonator** — at the centre of the vault. A perfectly spherical stone, eighteen inches in diameter, floating eight inches off the floor. Ancient. Pre-Sundering. Activated by the Breach's increasing proximity. The Darklings cluster around it, using its wrong-light aura for cover. While adjacent they have half cover.
 
-**Combat notes by character:**
-
-_Valkryth_ — the Darklings' shadow-movement is exactly the kind of threat his guard training did not prepare him for. He adapts by anchoring — picking one position, forcing them to come to him rather than chasing them through the shadows. It works. It is not elegant. It is effective.
-
-_Yoa_ — professionally at home in the wrong light. The pre-echo means she hears her own movements before she makes them. She uses this. DC 13 Perception check to use the pre-echo offensively — she knows where her strike lands a half-second before it does. Advantage on one attack per round if she succeeds.
-
-_Sevrian_ — the Resonator's pulse threatens concentration spells. Every eight seconds. Sevrian is aware of this because they counted in the corridor. They time their casting around the pulse with DC 12 Performance — treating the rhythm like a musical beat, casting in the window between pulses. Success means no concentration checks this combat.
-
-_Eva_ — the Resonator is the most significant magical object she has encountered in her nascent field career. She is aware that the correct academic response is documentation. She is aware that there are Darklings trying to kill her. She manages both, imperfectly.
-
-_Andrew_ — the Darklings are feeding on diverted light. His divine light-producing abilities make him a target. Every spell that produces light draws two Darklings immediately. He learns this after the first casting. He adjusts.
-
-_Xylira_ — her Djinni patron's influence — air, movement, the particular quality of directed wind — is useful in the enclosed vault. She can use air-based attacks to force Darklings out of shadow cover without needing to see them clearly. The wind in the vault moves toward her, just slightly, the whole fight.
+Darkling - 6 (6) , 2(4), 3 (9)
 
 **The puzzle — deactivating the Resonator:**
 
@@ -253,66 +223,6 @@ The Resonator drops to the floor. Smooth, warm, twelve pounds. Faintly iridescen
 
 ---
 
-### PART FOUR: THE RETURN
-
-#### Back to Davan
-
-Davan listens to the account without interrupting.
-
-> _"The Resonator is not ours. We didn't place it. If it was active, that means the Breach has been feeding it."_
-
-He looks at it — or at the players, if they kept it.
-
-> _"The Breach is getting louder. This is what that sounds like when it has something to vibrate against."_
-
-He pays without complaint. If they kept the Resonator, Oren watches it with fixed attention as they leave. Davan does not ask for it. He does not need to.
-
-
----
-
-#### The Cult Records
-
-Handed over in a wrapped cloth bundle. Thirty years of Breach observations — dry, thorough, and deeply unsettling in aggregate. A player who spends an hour with them and makes DC 13 Investigation identifies the inflection point: three years ago, the Breach's behaviour changed. It began moving with more regularity. Less like a wound. More like something breathing.
-
----
-
-### PART FIVE: HARVEN — THE CLOSING IMAGE
-
-#### That Evening
-
-The players are back in Jorenn. Desh puts food in front of them without being asked. Good food — she has decided she likes them. The fire is working. The Resonator, if they kept it, hums faintly when Valkryth walks past it. He moves to the other side of the table.
-
-Harven finds them.
-
-He looks different from session one. Not distressed — unmoored. He is carrying his sketchbook pressed against his chest with both hands. He sits without being invited. He opens to a new page and sets it on the table.
-
-> _"I drew this today. This afternoon. I remember drawing it. I remember the light coming through my window, I remember the charcoal, I remember finishing it."_
-
-A pause.
-
-> _"I don't remember deciding to draw it."_
-
-**The new sketch:**
-
-The party — all six, rendered accurately. A street in Jorenn, near the market. An ordinary scene they were not present for today because they were at Ashmore.
-
-Standing with them — close, natural, part of the group — is the seventh figure. The same young man from session one.
-
-But this time Harven has drawn him twice. Once in the group. Once in the background, half-visible around a corner, watching the group from a distance.
-
-The same figure. In two places. In a sketch Harven does not remember deciding to draw. Of a scene that did not happen.
-
-> _"I think,"_ Harven says carefully, _"I think I know him."_
-
-He touches the figure's face in the sketch. Doesn't press. Just touches.
-
-> _"I can't remember from where."_
-
-He closes the sketchbook. Stands. Gives them a small uncertain smile that doesn't reach his eyes.
-
-> _"Probably nothing."_
-
-He leaves.
 
 ### Characters:
 

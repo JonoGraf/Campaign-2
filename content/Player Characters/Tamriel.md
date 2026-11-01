@@ -11,7 +11,7 @@ player: Cam
 tags:
 status: Alive
 image: "[[Xylira.png]]"
-level: "1"
+level: "2"
 ---
 ![[Xylira Statblock.png]]
 
@@ -27,6 +27,7 @@ Faith: Vhaeraun,  also known as the Masked Lord and the Masked God of Night, is 
 ### Level & Knowledge
 Level 1 Warlock
 Fey Ancestry
+Azezil (check spelling) - Farmiliar
 
 ### Keepsake
 ![[Silver Pendant-1.png]]

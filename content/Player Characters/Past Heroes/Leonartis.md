@@ -3,7 +3,7 @@ aliases:
 type: Player
 faction:
 location: Retired
-description: ""
+description: Ranger - Cantrips Pty Ltd
 disposition:
 player: Josh S
 tags:

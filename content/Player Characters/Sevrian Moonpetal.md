@@ -6,7 +6,7 @@ type: Player
 faction:
 location: Party
 description: Fairy Bard
-level: 1
+level: 2
 disposition:
 player: Josh S
 tags:

@@ -6,7 +6,7 @@ type: Player
 faction:
 location: Party
 description: Human Wizard
-level: 1
+level: 2
 disposition:
 player: Eva
 tags:
@@ -23,6 +23,8 @@ Level 1 Wizard
 Calligrapher's Supplies
 [[Common]], [[Gnomish]], [[Goblin]]
 
+Advantage again bully checks
+
 ### Keepsake
 ![[Inspectacles Statblock.png]]
 
@@ -35,7 +37,7 @@ Calligrapher's Supplies
 ### Backstory
 Zephir was the youngest provisional researcher ever accepted into [[the Arcana Pansophical]]'s field assessment program. Unfortunately, she misunderstood what that meant.
 
-While older students saw admission as the beginning of their education, Eva saw it as proof that she was already exceptional. She became the sort of person who:
+While older students saw admission as the beginning of their education, Zephir saw it as proof that she was already exceptional. She became the sort of person who:
 * Corrects senior researchers on technical terminology.
 * Uses unnecessarily formal language.
 * Refers to ordinary conversations as "informal interviews."
@@ -56,7 +58,8 @@ Since then she has spent years cultivating the demeaner of a respected academic:
 She’s determined that she will be the youngest arch wizard in history. She grew up in a family of free spirted local nobles, who enjoyed poetry, dances and lively conversation. They think of her fondly, but with confusion- she thinks of them as intellectually lazy layabouts. She still attends family functions when required, but will bring a book.
 
 
-%% Personality
+%%
+Personality
 Probably believes:
 * Knowledge creates authority.
 * Adults respect competence.
@@ -68,3 +71,4 @@ But in practice:
 * She gets offended when people don't take her seriously.
 * Her observations are increasingly shaped by fear.
 * She cannot remain objective because she's part of the experiment
+%%

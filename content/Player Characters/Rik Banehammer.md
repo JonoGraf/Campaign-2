@@ -6,7 +6,7 @@ type: Player
 faction: [[the Order of the Gauntlet]]
 location: Party
 description: Dwarf Paladin
-level: 1
+level: 2
 disposition:
 player: Andrew
 tags:
